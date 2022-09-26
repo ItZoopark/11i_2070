@@ -1,16 +1,18 @@
-n = int(input("n = "))
-k = int(input("k = "))
-fn = 1
-for i in range(2, n+1): # [2..n]
-    fn = fn * i
-    # print(f"i={i}, f={f}")
-fk = 1
-for i in range(2, k+1): # [2..n]
-    fk = fk * i
+h = int(input("h= "))
+for n in range(h+1):
+    for k in range(n+1):
+        fn = 1
+        for i in range(2, n + 1):
+            fn = fn * i
 
-fnk = 1
-for i in range(2, n-k+1): # [2..n-k]
-    fnk = fnk * i
+        fk = 1
+        for i in range(2, k + 1):
+            fk = fk * i
 
-cnk = fn / (fk * fnk)
-print(cnk)
+        fnk = 1
+        for i in range(2, n - k + 1):
+            fnk = fnk * i
+
+        cnk = fn // (fk * fnk)
+        print(cnk, end=' ')
+    print()
