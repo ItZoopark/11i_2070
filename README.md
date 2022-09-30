@@ -9,6 +9,7 @@
 
 ## задание на урок(30.09.2022)
 # Поляков
+# https://kpolyakov.spb.ru/school/ege/gen.php?action=viewAllEgeNo&egeId=6&cat37=on&cat91=on&cat175=on
 + 1797
 + 4087
 + 4093
