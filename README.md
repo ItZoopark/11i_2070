@@ -18,3 +18,7 @@
 
 ## Алгебра логики
 ![логика](https://user-images.githubusercontent.com/90249513/193522231-aa08dd49-3c8e-4693-a368-853bf3345fe1.jpeg)
+
+# Задание на упрощение выражений
+
+![логика_задание](https://user-images.githubusercontent.com/90249513/193532882-a53aa096-fb7f-4c0d-9b6f-442c2228b5fa.png)
