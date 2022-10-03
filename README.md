@@ -15,3 +15,6 @@
 + 4093
 + 1806
 + 1794
+
+## Алгебра логики
+![логика](https://user-images.githubusercontent.com/90249513/193522231-aa08dd49-3c8e-4693-a368-853bf3345fe1.jpeg)
