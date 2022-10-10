@@ -33,5 +33,8 @@ for i in range(100):
     if x not in a:
         a.append(x)
 print(a)
+# добавление в начало
+a.insert(0, 1000)
+print(a)
 
 
