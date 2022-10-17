@@ -28,3 +28,4 @@ for n in count_range:
 
 plt.plot(count_range, buble_sort_time_list, 'g')
 plt.plot(count_range, embeded_sort_time, 'r')
+
