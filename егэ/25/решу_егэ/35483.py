@@ -1,4 +1,7 @@
-a = 35_819_000
+a = 35_000_000
+# a = 35_819_000
+# a = 38_950_081
+# a = 39037448
 b = 40_000_000
 
 from math import ceil
@@ -17,7 +20,7 @@ for x in range(a, b):
             count += 1
     if count == 5:
         print(x)
-        print(lst)
+        # print(lst)
 
 # start = int(a ** 0.25)
 # while start ** 4 < b:
